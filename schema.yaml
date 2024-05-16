@@ -1,0 +1,18 @@
+## Split data into features and target
+## X = data[['Age', 'Current_Pain_Level', 'Exercise_Intensity', 'Exercise_Duration']]
+## y = data['Risk_Score']  # This is the target
+COLUMNS:
+  PatientID: int64
+  Age: int64
+  Gender: string
+  Medical_History: string
+  Current_Pain_Level: int64
+  Exercise_Type: string
+  Exercise_Intensity: string
+  Exercise_Duration: int64
+  Risk_Score: int64
+
+
+TARGET_COLUMN:
+  name: Risk_Score
+  

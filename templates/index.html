@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Patient Data</title>
+</head>
+<body>
+    <h1>Patient Data</h1>
+    <form id="patientForm">
+        <input type="text" id="name" placeholder="Name">
+        <input type="number" id="age" placeholder="Age">
+        <input type="text" id="conditions" placeholder="Medical Conditions">
+        <button type="submit">Add Patient</button>
+    </form>
+    <script>
+        document.getElementById('patientForm').onsubmit = function(event){
+            event.preventDefault();
+            fetch('/patients', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    name: document.getElementById('name').value,
+                    age: document.getElementById('age').value,
+                    medical_conditions: document.getElementById('conditions').value
+                })
+            }).then(response => response.json()).then(data => console.log(data));
+        }
+    </script>
+</body>
+</html>

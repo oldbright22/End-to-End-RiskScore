@@ -1,0 +1,101 @@
+Patient_ID,Age,Gender,Medical_History,Current_Pain_Level,Exercise_Type,Exercise_Intensity,Exercise_Duration
+1,58,Female,None,10,Strength,High,11
+2,25,Male,None,10,Strength,High,34
+3,19,Female,None,1,Strength,Medium,31
+4,65,Male,Cardiovascular,10,Strength,Medium,52
+5,35,Male,None,2,Flexibility,Medium,53
+6,33,Male,None,7,Stretching,Low,35
+7,32,Male,Orthopedic,10,Strength,Low,56
+8,26,Female,None,10,Cardio,High,20
+9,65,Female,Chronic Pain,9,Flexibility,High,39
+10,24,Female,Cardiovascular,6,Strength,Low,18
+11,61,Male,Orthopedic,5,Cardio,Low,49
+12,65,Female,Diabetes,4,Strength,Medium,44
+13,75,Male,Cardiovascular,6,Stretching,Low,11
+14,52,Male,Chronic Pain,4,Flexibility,Low,35
+15,23,Male,Cardiovascular,5,Stretching,High,47
+16,55,Female,Chronic Pain,7,Flexibility,High,46
+17,45,Female,Chronic Pain,3,Strength,Medium,52
+18,20,Female,Diabetes,5,Strength,Low,11
+19,19,Male,Cardiovascular,8,Flexibility,High,15
+20,23,Male,Diabetes,6,Cardio,Low,51
+21,31,Female,Diabetes,2,Cardio,Low,37
+22,32,Male,Cardiovascular,1,Strength,Medium,18
+23,50,Female,None,8,Strength,Low,39
+24,56,Female,None,10,Stretching,Medium,21
+25,19,Female,Diabetes,10,Strength,High,13
+26,53,Male,Orthopedic,2,Flexibility,High,26
+27,30,Female,Diabetes,2,Cardio,High,34
+28,63,Male,Diabetes,9,Cardio,High,30
+29,59,Male,Diabetes,4,Stretching,Medium,23
+30,62,Female,None,9,Cardio,Medium,39
+31,52,Female,None,5,Cardio,High,30
+32,44,Female,None,3,Flexibility,High,31
+33,32,Female,Diabetes,6,Cardio,High,58
+34,46,Male,Orthopedic,2,Stretching,Medium,34
+35,55,Male,None,4,Stretching,High,27
+36,35,Female,Cardiovascular,6,Cardio,Medium,58
+37,69,Male,Cardiovascular,5,Strength,Low,36
+38,73,Male,Cardiovascular,3,Cardio,High,26
+39,18,Male,Chronic Pain,8,Stretching,Medium,15
+40,66,Male,Diabetes,9,Stretching,Medium,40
+41,69,Male,Cardiovascular,5,Flexibility,Medium,11
+42,28,Female,Diabetes,10,Cardio,Low,57
+43,62,Male,Cardiovascular,9,Cardio,High,44
+44,45,Female,Orthopedic,1,Flexibility,Medium,13
+45,39,Female,Diabetes,9,Stretching,High,32
+46,35,Female,Cardiovascular,5,Flexibility,Medium,24
+47,27,Female,None,2,Strength,High,51
+48,31,Male,Diabetes,3,Cardio,Low,14
+49,79,Male,Chronic Pain,5,Stretching,Medium,59
+50,66,Female,None,2,Flexibility,Medium,51
+51,39,Female,None,2,Stretching,Low,12
+52,24,Male,Chronic Pain,9,Strength,High,58
+53,23,Female,None,3,Cardio,Medium,11
+54,42,Female,None,5,Flexibility,Low,25
+55,24,Male,Cardiovascular,5,Stretching,Medium,22
+56,40,Female,Cardiovascular,10,Cardio,Medium,11
+57,72,Male,Diabetes,4,Cardio,Medium,49
+58,40,Female,Diabetes,6,Stretching,High,19
+59,56,Male,Diabetes,4,Cardio,Low,25
+60,34,Male,Cardiovascular,5,Cardio,Low,18
+61,69,Female,Diabetes,9,Flexibility,Low,40
+62,20,Male,None,8,Cardio,Low,52
+63,64,Male,Cardiovascular,5,Flexibility,Medium,17
+64,47,Female,Diabetes,1,Cardio,High,46
+65,52,Male,None,2,Strength,Low,23
+66,25,Male,Diabetes,7,Strength,High,39
+67,80,Female,Orthopedic,5,Flexibility,Low,54
+68,77,Female,Diabetes,1,Flexibility,Low,26
+69,42,Male,Orthopedic,1,Strength,Medium,59
+70,23,Male,Diabetes,6,Cardio,Medium,33
+71,53,Female,Chronic Pain,3,Flexibility,Medium,20
+72,36,Female,Diabetes,5,Stretching,High,48
+73,71,Male,Cardiovascular,3,Cardio,Medium,48
+74,58,Male,Cardiovascular,8,Cardio,Medium,57
+75,57,Male,Orthopedic,9,Strength,Low,55
+76,74,Male,Cardiovascular,7,Flexibility,Low,17
+77,73,Male,None,9,Cardio,Medium,59
+78,41,Female,Chronic Pain,1,Flexibility,Medium,20
+79,54,Male,Chronic Pain,2,Flexibility,High,29
+80,30,Male,None,2,Flexibility,High,16
+81,63,Male,Orthopedic,3,Strength,Low,47
+82,22,Female,None,9,Flexibility,High,11
+83,20,Male,None,1,Strength,Medium,29
+84,60,Female,Chronic Pain,6,Stretching,Medium,46
+85,32,Female,Diabetes,10,Cardio,Low,53
+86,67,Male,Chronic Pain,9,Cardio,Medium,34
+87,36,Male,Chronic Pain,3,Stretching,Medium,35
+88,23,Female,Cardiovascular,7,Strength,Medium,55
+89,72,Female,None,3,Cardio,Medium,22
+90,32,Female,Chronic Pain,1,Strength,High,14
+91,73,Female,None,5,Strength,High,47
+92,24,Female,Cardiovascular,6,Strength,High,54
+93,42,Male,None,1,Stretching,High,50
+94,35,Male,Chronic Pain,6,Stretching,High,25
+95,47,Male,None,4,Strength,Low,16
+96,58,Male,Cardiovascular,4,Flexibility,Medium,54
+97,71,Female,Diabetes,2,Stretching,Low,59
+98,41,Male,None,6,Flexibility,Medium,29
+99,28,Male,Chronic Pain,9,Flexibility,Medium,53
+100,41,Male,Cardiovascular,7,Strength,Medium,48
